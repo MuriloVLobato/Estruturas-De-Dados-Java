@@ -57,6 +57,3 @@ Este repositório contém uma coleção de exemplos de implementações de vári
 * **`OdeN/VetorLongTest.java`**: Demonstra a complexidade de tempo O(n²) através de loops aninhados que percorrem um array.
 * **`OdeUm/HashMapTest.java`**: Demonstra a complexidade de tempo O(1) para aceder a elementos num `HashMap`.
 
-## Aplicação Principal
-
-* **`Application.java`**: A classe principal que inicia a aplicação Spring Boot.
